@@ -1,2 +1,2 @@
 # Xmind
-阿岡的心智圖 - Deployed by EZPage
+阿剛的心智圖 - Deployed by EZPage
